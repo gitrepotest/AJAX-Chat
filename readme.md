@@ -1,4 +1,4 @@
-AJAX Chat Standalone
+AJAX Chat Standalone test
 ====================
 
 This is the standalone version of Blueimp's AJAX Chat. If you are looking for a version to integrate with your forum, select a different branch.
